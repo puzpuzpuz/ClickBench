@@ -1,5 +1,5 @@
 {
-    "system": "QuestDB (partitioned)",
+    "system": "QuestDB",
     "date": "2024-02-26",
     "machine": "c6a.metal, 500gb gp2",
     "cluster_size": 1,
